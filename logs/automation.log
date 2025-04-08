@@ -1,2 +1,18 @@
-2024-12-15 02:45:21 [main] INFO com.ui.tests.LoginTest Started Login Excel Test 
-2024-12-15 02:45:22 [main] INFO com.ui.tests.LoginTest Login Excel Test completed 
+2025-04-08 02:58:02 [main] INFO com.ui.listeners.TestListener Test Suite is Started 
+2025-04-08 02:58:06 [main] INFO com.ui.listeners.TestListener loginExcelTest 
+2025-04-08 02:58:06 [main] INFO com.ui.listeners.TestListener Verify if valid user is able to login into application with xlsx 
+2025-04-08 02:58:06 [main] INFO com.ui.listeners.TestListener [smokeTesting, e2e] 
+2025-04-08 02:58:07 [main] INFO com.ui.listeners.TestListener loginExcelTest SKIPPED 
+2025-04-08 02:58:10 [main] INFO com.ui.listeners.TestListener loginExcelTest 
+2025-04-08 02:58:10 [main] INFO com.ui.listeners.TestListener Verify if valid user is able to login into application with xlsx 
+2025-04-08 02:58:10 [main] INFO com.ui.listeners.TestListener [smokeTesting, e2e] 
+2025-04-08 02:58:10 [main] INFO com.ui.listeners.TestListener loginExcelTest SKIPPED 
+2025-04-08 02:58:12 [main] INFO com.ui.listeners.TestListener loginExcelTest 
+2025-04-08 02:58:12 [main] INFO com.ui.listeners.TestListener Verify if valid user is able to login into application with xlsx 
+2025-04-08 02:58:12 [main] INFO com.ui.listeners.TestListener [smokeTesting, e2e] 
+2025-04-08 02:58:14 [main] INFO com.ui.listeners.TestListener loginExcelTest SKIPPED 
+2025-04-08 02:58:15 [main] INFO com.ui.listeners.TestListener loginExcelTest 
+2025-04-08 02:58:15 [main] INFO com.ui.listeners.TestListener Verify if valid user is able to login into application with xlsx 
+2025-04-08 02:58:15 [main] INFO com.ui.listeners.TestListener [smokeTesting, e2e] 
+2025-04-08 02:58:17 [main] INFO com.ui.listeners.TestListener loginExcelTest PASSED 
+2025-04-08 02:58:17 [main] INFO com.ui.listeners.TestListener Test Suite is Completed 

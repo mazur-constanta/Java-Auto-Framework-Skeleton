@@ -1,11 +1,10 @@
 package com.utility;
 
-import org.apache.commons.logging.Log;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 public class LoggerUtility {
-    private static Logger logger;
+    public static Logger logger;
 
     private LoggerUtility() {
     }
