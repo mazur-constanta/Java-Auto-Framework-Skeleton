@@ -1,126 +1,79 @@
-2025-04-13 01:17:10 [main] INFO com.ui.tests.LoginTest Test Suite is Started 
-2025-04-13 01:17:10 [main] INFO com.ui.tests.LoginTest Load the Homepage of the website 
-2025-04-13 01:17:10 [main] INFO com.ui.tests.LoginTest Launching the browser for CHROME 
-2025-04-13 01:17:11 [main] INFO com.ui.tests.LoginTest Visiting the website http://www.automationpractice.pl/index.php 
-2025-04-13 01:17:14 [main] INFO com.ui.tests.LoginTest loginCSVTest 
-2025-04-13 01:17:14 [main] INFO com.ui.tests.LoginTest Verify if valid user is able to login into application with csv 
-2025-04-13 01:17:14 [main] INFO com.ui.tests.LoginTest [smokeTesting, e2e] 
-2025-04-13 01:17:14 [main] INFO com.ui.tests.LoginTest Trying to perform the click to go to the Login page 
-2025-04-13 01:17:14 [main] INFO com.ui.tests.LoginTest Finding element with locator By.xpath: //a[contains(text(), 'Sign in')] 
-2025-04-13 01:17:15 [main] INFO com.ui.tests.LoginTest Element is found and now performing the click 
-2025-04-13 01:17:15 [main] INFO com.ui.tests.LoginTest Finding element with locator By.id: email 
-2025-04-13 01:17:15 [main] INFO com.ui.tests.LoginTest Element found and now enter the text linda.may@yopmail.com 
-2025-04-13 01:17:15 [main] INFO com.ui.tests.LoginTest Finding element with locator By.id: passwd 
-2025-04-13 01:17:15 [main] INFO com.ui.tests.LoginTest Element found and now enter the text Password1 
-2025-04-13 01:17:15 [main] INFO com.ui.tests.LoginTest Finding element with locator By.id: SubmitLogin 
-2025-04-13 01:17:15 [main] INFO com.ui.tests.LoginTest Element is found and now performing the click 
-2025-04-13 01:17:15 [main] INFO com.ui.tests.LoginTest Finding element with locator By.xpath: //a[@title='View my customer account']/span 
-2025-04-13 01:17:16 [main] INFO com.ui.tests.LoginTest Element found and now return the visible text Linda May 
-2025-04-13 01:17:16 [main] INFO com.ui.tests.LoginTest loginCSVTest PASSED 
-2025-04-13 01:17:16 [main] INFO com.ui.tests.LoginTest Close the browser 
-2025-04-13 01:17:16 [main] INFO com.ui.tests.LoginTest Closing the browser 
-2025-04-13 01:17:16 [main] INFO com.ui.tests.LoginTest Load the Homepage of the website 
-2025-04-13 01:17:16 [main] INFO com.ui.tests.LoginTest Launching the browser for CHROME 
-2025-04-13 01:17:17 [main] INFO com.ui.tests.LoginTest Visiting the website http://www.automationpractice.pl/index.php 
-2025-04-13 01:17:18 [main] INFO com.ui.tests.LoginTest loginCSVTest 
-2025-04-13 01:17:18 [main] INFO com.ui.tests.LoginTest Verify if valid user is able to login into application with csv 
-2025-04-13 01:17:18 [main] INFO com.ui.tests.LoginTest [smokeTesting, e2e] 
-2025-04-13 01:17:18 [main] INFO com.ui.tests.LoginTest Trying to perform the click to go to the Login page 
-2025-04-13 01:17:18 [main] INFO com.ui.tests.LoginTest Finding element with locator By.xpath: //a[contains(text(), 'Sign in')] 
-2025-04-13 01:17:19 [main] INFO com.ui.tests.LoginTest Element is found and now performing the click 
-2025-04-13 01:17:19 [main] INFO com.ui.tests.LoginTest Finding element with locator By.id: email 
-2025-04-13 01:17:19 [main] INFO com.ui.tests.LoginTest Element found and now enter the text linda.bay@yopmail.com 
-2025-04-13 01:17:19 [main] INFO com.ui.tests.LoginTest Finding element with locator By.id: passwd 
-2025-04-13 01:17:19 [main] INFO com.ui.tests.LoginTest Element found and now enter the text Password1 
-2025-04-13 01:17:19 [main] INFO com.ui.tests.LoginTest Finding element with locator By.id: SubmitLogin 
-2025-04-13 01:17:19 [main] INFO com.ui.tests.LoginTest Element is found and now performing the click 
-2025-04-13 01:17:19 [main] INFO com.ui.tests.LoginTest Finding element with locator By.xpath: //a[@title='View my customer account']/span 
-2025-04-13 01:17:19 [main] INFO com.ui.tests.LoginTest loginCSVTest FAILED 
-2025-04-13 01:17:19 [main] INFO com.ui.tests.LoginTest no such element: Unable to locate element: {"method":"xpath","selector":"//a[@title='View my customer account']/span"}
-  (Session info: chrome=135.0.7049.85)
-For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Build info: version: '4.26.0', revision: '8ccf0219d7'
-System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.2.1', java.version: '22.0.2'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [2ec11678b429b3c81c68d42c4d370784, findElement {using=xpath, value=//a[@title='View my customer account']/span}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.85, chrome: {chromedriverVersion: 135.0.7049.84 (6c019e560019..., userDataDir: /var/folders/61/3s3lckjj189...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59465}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:59465/devtoo..., se:cdpVersion: 135.0.7049.85, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 2ec11678b429b3c81c68d42c4d370784 
-2025-04-13 01:17:19 [main] INFO com.ui.tests.LoginTest Close the browser 
-2025-04-13 01:17:19 [main] INFO com.ui.tests.LoginTest Closing the browser 
-2025-04-13 01:17:19 [main] INFO com.ui.tests.LoginTest Load the Homepage of the website 
-2025-04-13 01:17:19 [main] INFO com.ui.tests.LoginTest Launching the browser for CHROME 
-2025-04-13 01:17:20 [main] INFO com.ui.tests.LoginTest Visiting the website http://www.automationpractice.pl/index.php 
-2025-04-13 01:17:22 [main] INFO com.ui.tests.LoginTest loginExcelTest 
-2025-04-13 01:17:22 [main] INFO com.ui.tests.LoginTest Verify if valid user is able to login into application with xlsx 
-2025-04-13 01:17:22 [main] INFO com.ui.tests.LoginTest [smokeTesting, e2e] 
-2025-04-13 01:17:22 [main] INFO com.ui.tests.LoginTest Trying to perform the click to go to the Login page 
-2025-04-13 01:17:22 [main] INFO com.ui.tests.LoginTest Finding element with locator By.xpath: //a[contains(text(), 'Sign in')] 
-2025-04-13 01:17:22 [main] INFO com.ui.tests.LoginTest Element is found and now performing the click 
-2025-04-13 01:17:22 [main] INFO com.ui.tests.LoginTest Finding element with locator By.id: email 
-2025-04-13 01:17:22 [main] INFO com.ui.tests.LoginTest Element found and now enter the text linda.may@yopmail.com 
-2025-04-13 01:17:22 [main] INFO com.ui.tests.LoginTest Finding element with locator By.id: passwd 
-2025-04-13 01:17:22 [main] INFO com.ui.tests.LoginTest Element found and now enter the text Password1 
-2025-04-13 01:17:22 [main] INFO com.ui.tests.LoginTest Finding element with locator By.id: SubmitLogin 
-2025-04-13 01:17:23 [main] INFO com.ui.tests.LoginTest Element is found and now performing the click 
-2025-04-13 01:17:23 [main] INFO com.ui.tests.LoginTest Finding element with locator By.xpath: //a[@title='View my customer account']/span 
-2025-04-13 01:17:23 [main] INFO com.ui.tests.LoginTest Element found and now return the visible text Linda May 
-2025-04-13 01:17:23 [main] INFO com.ui.tests.LoginTest loginExcelTest PASSED 
-2025-04-13 01:17:23 [main] INFO com.ui.tests.LoginTest Close the browser 
-2025-04-13 01:17:23 [main] INFO com.ui.tests.LoginTest Closing the browser 
-2025-04-13 01:17:23 [main] INFO com.ui.tests.LoginTest Load the Homepage of the website 
-2025-04-13 01:17:23 [main] INFO com.ui.tests.LoginTest Launching the browser for CHROME 
-2025-04-13 01:17:24 [main] INFO com.ui.tests.LoginTest Visiting the website http://www.automationpractice.pl/index.php 
-2025-04-13 01:17:25 [main] INFO com.ui.tests.LoginTest loginTest 
-2025-04-13 01:17:25 [main] INFO com.ui.tests.LoginTest Verify if valid user is able to login into application with json 
-2025-04-13 01:17:25 [main] INFO com.ui.tests.LoginTest [smokeTesting, e2e] 
-2025-04-13 01:17:25 [main] INFO com.ui.tests.LoginTest Trying to perform the click to go to the Login page 
-2025-04-13 01:17:25 [main] INFO com.ui.tests.LoginTest Finding element with locator By.xpath: //a[contains(text(), 'Sign in')] 
-2025-04-13 01:17:26 [main] INFO com.ui.tests.LoginTest Element is found and now performing the click 
-2025-04-13 01:17:26 [main] INFO com.ui.tests.LoginTest Finding element with locator By.id: email 
-2025-04-13 01:17:26 [main] INFO com.ui.tests.LoginTest Element found and now enter the text linda.may@yopmail.com 
-2025-04-13 01:17:26 [main] INFO com.ui.tests.LoginTest Finding element with locator By.id: passwd 
-2025-04-13 01:17:26 [main] INFO com.ui.tests.LoginTest Element found and now enter the text Password1 
-2025-04-13 01:17:26 [main] INFO com.ui.tests.LoginTest Finding element with locator By.id: SubmitLogin 
-2025-04-13 01:17:26 [main] INFO com.ui.tests.LoginTest Element is found and now performing the click 
-2025-04-13 01:17:26 [main] INFO com.ui.tests.LoginTest Finding element with locator By.xpath: //a[@title='View my customer account']/span 
-2025-04-13 01:17:26 [main] INFO com.ui.tests.LoginTest loginTest FAILED 
-2025-04-13 01:17:26 [main] INFO com.ui.tests.LoginTest no such element: Unable to locate element: {"method":"xpath","selector":"//a[@title='View my customer account']/span"}
-  (Session info: chrome=135.0.7049.85)
-For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Build info: version: '4.26.0', revision: '8ccf0219d7'
-System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.2.1', java.version: '22.0.2'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [fbb3932b72b1494629c1e9f5df141be2, findElement {using=xpath, value=//a[@title='View my customer account']/span}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.85, chrome: {chromedriverVersion: 135.0.7049.84 (6c019e560019..., userDataDir: /var/folders/61/3s3lckjj189...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59519}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:59519/devtoo..., se:cdpVersion: 135.0.7049.85, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: fbb3932b72b1494629c1e9f5df141be2 
-2025-04-13 01:17:26 [main] INFO com.ui.tests.LoginTest Close the browser 
-2025-04-13 01:17:26 [main] INFO com.ui.tests.LoginTest Closing the browser 
-2025-04-13 01:17:26 [main] INFO com.ui.tests.LoginTest Load the Homepage of the website 
-2025-04-13 01:17:26 [main] INFO com.ui.tests.LoginTest Launching the browser for CHROME 
-2025-04-13 01:17:27 [main] INFO com.ui.tests.LoginTest Visiting the website http://www.automationpractice.pl/index.php 
-2025-04-13 01:17:29 [main] INFO com.ui.tests.LoginTest loginTest 
-2025-04-13 01:17:29 [main] INFO com.ui.tests.LoginTest Verify if valid user is able to login into application with json 
-2025-04-13 01:17:29 [main] INFO com.ui.tests.LoginTest [smokeTesting, e2e] 
-2025-04-13 01:17:29 [main] INFO com.ui.tests.LoginTest Trying to perform the click to go to the Login page 
-2025-04-13 01:17:29 [main] INFO com.ui.tests.LoginTest Finding element with locator By.xpath: //a[contains(text(), 'Sign in')] 
-2025-04-13 01:17:29 [main] INFO com.ui.tests.LoginTest Element is found and now performing the click 
-2025-04-13 01:17:29 [main] INFO com.ui.tests.LoginTest Finding element with locator By.id: email 
-2025-04-13 01:17:29 [main] INFO com.ui.tests.LoginTest Element found and now enter the text linda.bay@yopmail.com 
-2025-04-13 01:17:29 [main] INFO com.ui.tests.LoginTest Finding element with locator By.id: passwd 
-2025-04-13 01:17:29 [main] INFO com.ui.tests.LoginTest Element found and now enter the text Password1 
-2025-04-13 01:17:29 [main] INFO com.ui.tests.LoginTest Finding element with locator By.id: SubmitLogin 
-2025-04-13 01:17:29 [main] INFO com.ui.tests.LoginTest Element is found and now performing the click 
-2025-04-13 01:17:29 [main] INFO com.ui.tests.LoginTest Finding element with locator By.xpath: //a[@title='View my customer account']/span 
-2025-04-13 01:17:29 [main] INFO com.ui.tests.LoginTest loginTest FAILED 
-2025-04-13 01:17:29 [main] INFO com.ui.tests.LoginTest no such element: Unable to locate element: {"method":"xpath","selector":"//a[@title='View my customer account']/span"}
-  (Session info: chrome=135.0.7049.85)
-For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Build info: version: '4.26.0', revision: '8ccf0219d7'
-System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.2.1', java.version: '22.0.2'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [d9630464ef09d33ad7d2ffdc76ba171d, findElement {using=xpath, value=//a[@title='View my customer account']/span}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.85, chrome: {chromedriverVersion: 135.0.7049.84 (6c019e560019..., userDataDir: /var/folders/61/3s3lckjj189...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59546}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:59546/devtoo..., se:cdpVersion: 135.0.7049.85, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: d9630464ef09d33ad7d2ffdc76ba171d 
-2025-04-13 01:17:29 [main] INFO com.ui.tests.LoginTest Close the browser 
-2025-04-13 01:17:29 [main] INFO com.ui.tests.LoginTest Closing the browser 
-2025-04-13 01:17:29 [main] INFO com.ui.tests.LoginTest Test Suite is Completed 
+2025-04-13 01:25:34 [main] INFO com.ui.listeners.TestListener Test Suite is Started 
+2025-04-13 01:25:34 [main] INFO com.ui.tests.LoginTest Load the Homepage of the website 
+2025-04-13 01:25:34 [main] INFO com.ui.pages.HomePage Launching the browser for CHROME 
+2025-04-13 01:25:35 [main] INFO com.ui.pages.HomePage Visiting the website http://www.automationpractice.pl/index.php 
+2025-04-13 01:25:38 [main] INFO com.ui.listeners.TestListener loginExcelTest 
+2025-04-13 01:25:38 [main] INFO com.ui.listeners.TestListener Verify if valid user is able to login into application with xlsx 
+2025-04-13 01:25:38 [main] INFO com.ui.listeners.TestListener [smokeTesting, e2e] 
+2025-04-13 01:25:38 [main] INFO com.ui.pages.HomePage Trying to perform the click to go to the Login page 
+2025-04-13 01:25:38 [main] INFO com.ui.pages.HomePage Finding element with locator By.xpath: //a[contains(text(), 'Sign in')] 
+2025-04-13 01:25:39 [main] INFO com.ui.pages.HomePage Element is found and now performing the click 
+2025-04-13 01:25:39 [main] INFO com.ui.pages.LoginPage Finding element with locator By.id: email 
+2025-04-13 01:25:39 [main] INFO com.ui.pages.LoginPage Element found and now enter the text linda.may@yopmail.com 
+2025-04-13 01:25:39 [main] INFO com.ui.pages.LoginPage Finding element with locator By.id: passwd 
+2025-04-13 01:25:39 [main] INFO com.ui.pages.LoginPage Element found and now enter the text Password1 
+2025-04-13 01:25:39 [main] INFO com.ui.pages.LoginPage Finding element with locator By.id: SubmitLogin 
+2025-04-13 01:25:39 [main] INFO com.ui.pages.LoginPage Element is found and now performing the click 
+2025-04-13 01:25:39 [main] INFO com.ui.pages.MyAccountPage Finding element with locator By.xpath: //a[@title='View my customer account']/span 
+2025-04-13 01:25:39 [main] INFO com.ui.listeners.TestListener loginExcelTest SKIPPED 
+2025-04-13 01:25:39 [main] INFO com.ui.tests.LoginTest Close the browser 
+2025-04-13 01:25:39 [main] INFO com.ui.pages.HomePage Closing the browser 
+2025-04-13 01:25:39 [main] INFO com.ui.tests.LoginTest Load the Homepage of the website 
+2025-04-13 01:25:39 [main] INFO com.ui.pages.HomePage Launching the browser for CHROME 
+2025-04-13 01:25:40 [main] INFO com.ui.pages.HomePage Visiting the website http://www.automationpractice.pl/index.php 
+2025-04-13 01:25:41 [main] INFO com.ui.listeners.TestListener loginExcelTest 
+2025-04-13 01:25:41 [main] INFO com.ui.listeners.TestListener Verify if valid user is able to login into application with xlsx 
+2025-04-13 01:25:41 [main] INFO com.ui.listeners.TestListener [smokeTesting, e2e] 
+2025-04-13 01:25:41 [main] INFO com.ui.pages.HomePage Trying to perform the click to go to the Login page 
+2025-04-13 01:25:41 [main] INFO com.ui.pages.HomePage Finding element with locator By.xpath: //a[contains(text(), 'Sign in')] 
+2025-04-13 01:25:42 [main] INFO com.ui.pages.HomePage Element is found and now performing the click 
+2025-04-13 01:25:42 [main] INFO com.ui.pages.LoginPage Finding element with locator By.id: email 
+2025-04-13 01:25:42 [main] INFO com.ui.pages.LoginPage Element found and now enter the text linda.may@yopmail.com 
+2025-04-13 01:25:42 [main] INFO com.ui.pages.LoginPage Finding element with locator By.id: passwd 
+2025-04-13 01:25:42 [main] INFO com.ui.pages.LoginPage Element found and now enter the text Password1 
+2025-04-13 01:25:42 [main] INFO com.ui.pages.LoginPage Finding element with locator By.id: SubmitLogin 
+2025-04-13 01:25:42 [main] INFO com.ui.pages.LoginPage Element is found and now performing the click 
+2025-04-13 01:25:42 [main] INFO com.ui.pages.MyAccountPage Finding element with locator By.xpath: //a[@title='View my customer account']/span 
+2025-04-13 01:25:42 [main] INFO com.ui.listeners.TestListener loginExcelTest SKIPPED 
+2025-04-13 01:25:42 [main] INFO com.ui.tests.LoginTest Close the browser 
+2025-04-13 01:25:42 [main] INFO com.ui.pages.HomePage Closing the browser 
+2025-04-13 01:25:42 [main] INFO com.ui.tests.LoginTest Load the Homepage of the website 
+2025-04-13 01:25:42 [main] INFO com.ui.pages.HomePage Launching the browser for CHROME 
+2025-04-13 01:25:43 [main] INFO com.ui.pages.HomePage Visiting the website http://www.automationpractice.pl/index.php 
+2025-04-13 01:25:44 [main] INFO com.ui.listeners.TestListener loginExcelTest 
+2025-04-13 01:25:44 [main] INFO com.ui.listeners.TestListener Verify if valid user is able to login into application with xlsx 
+2025-04-13 01:25:44 [main] INFO com.ui.listeners.TestListener [smokeTesting, e2e] 
+2025-04-13 01:25:44 [main] INFO com.ui.pages.HomePage Trying to perform the click to go to the Login page 
+2025-04-13 01:25:44 [main] INFO com.ui.pages.HomePage Finding element with locator By.xpath: //a[contains(text(), 'Sign in')] 
+2025-04-13 01:25:46 [main] INFO com.ui.pages.HomePage Element is found and now performing the click 
+2025-04-13 01:25:46 [main] INFO com.ui.pages.LoginPage Finding element with locator By.id: email 
+2025-04-13 01:25:46 [main] INFO com.ui.pages.LoginPage Element found and now enter the text linda.may@yopmail.com 
+2025-04-13 01:25:46 [main] INFO com.ui.pages.LoginPage Finding element with locator By.id: passwd 
+2025-04-13 01:25:46 [main] INFO com.ui.pages.LoginPage Element found and now enter the text Password1 
+2025-04-13 01:25:46 [main] INFO com.ui.pages.LoginPage Finding element with locator By.id: SubmitLogin 
+2025-04-13 01:25:46 [main] INFO com.ui.pages.LoginPage Element is found and now performing the click 
+2025-04-13 01:25:46 [main] INFO com.ui.pages.MyAccountPage Finding element with locator By.xpath: //a[@title='View my customer account']/span 
+2025-04-13 01:25:46 [main] INFO com.ui.listeners.TestListener loginExcelTest SKIPPED 
+2025-04-13 01:25:46 [main] INFO com.ui.tests.LoginTest Close the browser 
+2025-04-13 01:25:46 [main] INFO com.ui.pages.HomePage Closing the browser 
+2025-04-13 01:25:46 [main] INFO com.ui.tests.LoginTest Load the Homepage of the website 
+2025-04-13 01:25:46 [main] INFO com.ui.pages.HomePage Launching the browser for CHROME 
+2025-04-13 01:25:47 [main] INFO com.ui.pages.HomePage Visiting the website http://www.automationpractice.pl/index.php 
+2025-04-13 01:25:47 [main] INFO com.ui.listeners.TestListener loginExcelTest 
+2025-04-13 01:25:47 [main] INFO com.ui.listeners.TestListener Verify if valid user is able to login into application with xlsx 
+2025-04-13 01:25:47 [main] INFO com.ui.listeners.TestListener [smokeTesting, e2e] 
+2025-04-13 01:25:47 [main] INFO com.ui.pages.HomePage Trying to perform the click to go to the Login page 
+2025-04-13 01:25:47 [main] INFO com.ui.pages.HomePage Finding element with locator By.xpath: //a[contains(text(), 'Sign in')] 
+2025-04-13 01:25:49 [main] INFO com.ui.pages.HomePage Element is found and now performing the click 
+2025-04-13 01:25:49 [main] INFO com.ui.pages.LoginPage Finding element with locator By.id: email 
+2025-04-13 01:25:49 [main] INFO com.ui.pages.LoginPage Element found and now enter the text linda.may@yopmail.com 
+2025-04-13 01:25:49 [main] INFO com.ui.pages.LoginPage Finding element with locator By.id: passwd 
+2025-04-13 01:25:49 [main] INFO com.ui.pages.LoginPage Element found and now enter the text Password1 
+2025-04-13 01:25:49 [main] INFO com.ui.pages.LoginPage Finding element with locator By.id: SubmitLogin 
+2025-04-13 01:25:49 [main] INFO com.ui.pages.LoginPage Element is found and now performing the click 
+2025-04-13 01:25:49 [main] INFO com.ui.pages.MyAccountPage Finding element with locator By.xpath: //a[@title='View my customer account']/span 
+2025-04-13 01:25:49 [main] INFO com.ui.pages.MyAccountPage Element found and now return the visible text Linda May 
+2025-04-13 01:25:49 [main] INFO com.ui.listeners.TestListener loginExcelTest PASSED 
+2025-04-13 01:25:49 [main] INFO com.ui.tests.LoginTest Close the browser 
+2025-04-13 01:25:49 [main] INFO com.ui.pages.HomePage Closing the browser 
+2025-04-13 01:25:49 [main] INFO com.ui.listeners.TestListener Test Suite is Completed 
