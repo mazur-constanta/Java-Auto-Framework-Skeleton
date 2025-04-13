@@ -15,7 +15,7 @@ import java.util.Iterator;
 import java.util.List;
 
 public class LoginDataProvider {
-    @DataProvider(name = "LoginTestDataProvider")
+    @DataProvider(name = "LoginTestJsonProvider")
     public Iterator<Object[]> loginDataProvider() throws FileNotFoundException {
         Gson gson = new Gson();
         File testDataFile = new File(System.getProperty("user.dir") + "/testData/loginData.json");

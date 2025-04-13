@@ -3,7 +3,6 @@ package com.ui.pages;
 import com.constants.Browser;
 import static com.constants.Env.*;
 import com.utility.BrowserUtility;
-import static com.utility.PropertiesUtil.*;
 
 import com.utility.JSONUtility;
 import com.utility.LoggerUtility;

@@ -1,79 +1,160 @@
-2025-04-13 01:25:34 [main] INFO com.ui.listeners.TestListener Test Suite is Started 
-2025-04-13 01:25:34 [main] INFO com.ui.tests.LoginTest Load the Homepage of the website 
-2025-04-13 01:25:34 [main] INFO com.ui.pages.HomePage Launching the browser for CHROME 
-2025-04-13 01:25:35 [main] INFO com.ui.pages.HomePage Visiting the website http://www.automationpractice.pl/index.php 
-2025-04-13 01:25:38 [main] INFO com.ui.listeners.TestListener loginExcelTest 
-2025-04-13 01:25:38 [main] INFO com.ui.listeners.TestListener Verify if valid user is able to login into application with xlsx 
-2025-04-13 01:25:38 [main] INFO com.ui.listeners.TestListener [smokeTesting, e2e] 
-2025-04-13 01:25:38 [main] INFO com.ui.pages.HomePage Trying to perform the click to go to the Login page 
-2025-04-13 01:25:38 [main] INFO com.ui.pages.HomePage Finding element with locator By.xpath: //a[contains(text(), 'Sign in')] 
-2025-04-13 01:25:39 [main] INFO com.ui.pages.HomePage Element is found and now performing the click 
-2025-04-13 01:25:39 [main] INFO com.ui.pages.LoginPage Finding element with locator By.id: email 
-2025-04-13 01:25:39 [main] INFO com.ui.pages.LoginPage Element found and now enter the text linda.may@yopmail.com 
-2025-04-13 01:25:39 [main] INFO com.ui.pages.LoginPage Finding element with locator By.id: passwd 
-2025-04-13 01:25:39 [main] INFO com.ui.pages.LoginPage Element found and now enter the text Password1 
-2025-04-13 01:25:39 [main] INFO com.ui.pages.LoginPage Finding element with locator By.id: SubmitLogin 
-2025-04-13 01:25:39 [main] INFO com.ui.pages.LoginPage Element is found and now performing the click 
-2025-04-13 01:25:39 [main] INFO com.ui.pages.MyAccountPage Finding element with locator By.xpath: //a[@title='View my customer account']/span 
-2025-04-13 01:25:39 [main] INFO com.ui.listeners.TestListener loginExcelTest SKIPPED 
-2025-04-13 01:25:39 [main] INFO com.ui.tests.LoginTest Close the browser 
-2025-04-13 01:25:39 [main] INFO com.ui.pages.HomePage Closing the browser 
-2025-04-13 01:25:39 [main] INFO com.ui.tests.LoginTest Load the Homepage of the website 
-2025-04-13 01:25:39 [main] INFO com.ui.pages.HomePage Launching the browser for CHROME 
-2025-04-13 01:25:40 [main] INFO com.ui.pages.HomePage Visiting the website http://www.automationpractice.pl/index.php 
-2025-04-13 01:25:41 [main] INFO com.ui.listeners.TestListener loginExcelTest 
-2025-04-13 01:25:41 [main] INFO com.ui.listeners.TestListener Verify if valid user is able to login into application with xlsx 
-2025-04-13 01:25:41 [main] INFO com.ui.listeners.TestListener [smokeTesting, e2e] 
-2025-04-13 01:25:41 [main] INFO com.ui.pages.HomePage Trying to perform the click to go to the Login page 
-2025-04-13 01:25:41 [main] INFO com.ui.pages.HomePage Finding element with locator By.xpath: //a[contains(text(), 'Sign in')] 
-2025-04-13 01:25:42 [main] INFO com.ui.pages.HomePage Element is found and now performing the click 
-2025-04-13 01:25:42 [main] INFO com.ui.pages.LoginPage Finding element with locator By.id: email 
-2025-04-13 01:25:42 [main] INFO com.ui.pages.LoginPage Element found and now enter the text linda.may@yopmail.com 
-2025-04-13 01:25:42 [main] INFO com.ui.pages.LoginPage Finding element with locator By.id: passwd 
-2025-04-13 01:25:42 [main] INFO com.ui.pages.LoginPage Element found and now enter the text Password1 
-2025-04-13 01:25:42 [main] INFO com.ui.pages.LoginPage Finding element with locator By.id: SubmitLogin 
-2025-04-13 01:25:42 [main] INFO com.ui.pages.LoginPage Element is found and now performing the click 
-2025-04-13 01:25:42 [main] INFO com.ui.pages.MyAccountPage Finding element with locator By.xpath: //a[@title='View my customer account']/span 
-2025-04-13 01:25:42 [main] INFO com.ui.listeners.TestListener loginExcelTest SKIPPED 
-2025-04-13 01:25:42 [main] INFO com.ui.tests.LoginTest Close the browser 
-2025-04-13 01:25:42 [main] INFO com.ui.pages.HomePage Closing the browser 
-2025-04-13 01:25:42 [main] INFO com.ui.tests.LoginTest Load the Homepage of the website 
-2025-04-13 01:25:42 [main] INFO com.ui.pages.HomePage Launching the browser for CHROME 
-2025-04-13 01:25:43 [main] INFO com.ui.pages.HomePage Visiting the website http://www.automationpractice.pl/index.php 
-2025-04-13 01:25:44 [main] INFO com.ui.listeners.TestListener loginExcelTest 
-2025-04-13 01:25:44 [main] INFO com.ui.listeners.TestListener Verify if valid user is able to login into application with xlsx 
-2025-04-13 01:25:44 [main] INFO com.ui.listeners.TestListener [smokeTesting, e2e] 
-2025-04-13 01:25:44 [main] INFO com.ui.pages.HomePage Trying to perform the click to go to the Login page 
-2025-04-13 01:25:44 [main] INFO com.ui.pages.HomePage Finding element with locator By.xpath: //a[contains(text(), 'Sign in')] 
-2025-04-13 01:25:46 [main] INFO com.ui.pages.HomePage Element is found and now performing the click 
-2025-04-13 01:25:46 [main] INFO com.ui.pages.LoginPage Finding element with locator By.id: email 
-2025-04-13 01:25:46 [main] INFO com.ui.pages.LoginPage Element found and now enter the text linda.may@yopmail.com 
-2025-04-13 01:25:46 [main] INFO com.ui.pages.LoginPage Finding element with locator By.id: passwd 
-2025-04-13 01:25:46 [main] INFO com.ui.pages.LoginPage Element found and now enter the text Password1 
-2025-04-13 01:25:46 [main] INFO com.ui.pages.LoginPage Finding element with locator By.id: SubmitLogin 
-2025-04-13 01:25:46 [main] INFO com.ui.pages.LoginPage Element is found and now performing the click 
-2025-04-13 01:25:46 [main] INFO com.ui.pages.MyAccountPage Finding element with locator By.xpath: //a[@title='View my customer account']/span 
-2025-04-13 01:25:46 [main] INFO com.ui.listeners.TestListener loginExcelTest SKIPPED 
-2025-04-13 01:25:46 [main] INFO com.ui.tests.LoginTest Close the browser 
-2025-04-13 01:25:46 [main] INFO com.ui.pages.HomePage Closing the browser 
-2025-04-13 01:25:46 [main] INFO com.ui.tests.LoginTest Load the Homepage of the website 
-2025-04-13 01:25:46 [main] INFO com.ui.pages.HomePage Launching the browser for CHROME 
-2025-04-13 01:25:47 [main] INFO com.ui.pages.HomePage Visiting the website http://www.automationpractice.pl/index.php 
-2025-04-13 01:25:47 [main] INFO com.ui.listeners.TestListener loginExcelTest 
-2025-04-13 01:25:47 [main] INFO com.ui.listeners.TestListener Verify if valid user is able to login into application with xlsx 
-2025-04-13 01:25:47 [main] INFO com.ui.listeners.TestListener [smokeTesting, e2e] 
-2025-04-13 01:25:47 [main] INFO com.ui.pages.HomePage Trying to perform the click to go to the Login page 
-2025-04-13 01:25:47 [main] INFO com.ui.pages.HomePage Finding element with locator By.xpath: //a[contains(text(), 'Sign in')] 
-2025-04-13 01:25:49 [main] INFO com.ui.pages.HomePage Element is found and now performing the click 
-2025-04-13 01:25:49 [main] INFO com.ui.pages.LoginPage Finding element with locator By.id: email 
-2025-04-13 01:25:49 [main] INFO com.ui.pages.LoginPage Element found and now enter the text linda.may@yopmail.com 
-2025-04-13 01:25:49 [main] INFO com.ui.pages.LoginPage Finding element with locator By.id: passwd 
-2025-04-13 01:25:49 [main] INFO com.ui.pages.LoginPage Element found and now enter the text Password1 
-2025-04-13 01:25:49 [main] INFO com.ui.pages.LoginPage Finding element with locator By.id: SubmitLogin 
-2025-04-13 01:25:49 [main] INFO com.ui.pages.LoginPage Element is found and now performing the click 
-2025-04-13 01:25:49 [main] INFO com.ui.pages.MyAccountPage Finding element with locator By.xpath: //a[@title='View my customer account']/span 
-2025-04-13 01:25:49 [main] INFO com.ui.pages.MyAccountPage Element found and now return the visible text Linda May 
-2025-04-13 01:25:49 [main] INFO com.ui.listeners.TestListener loginExcelTest PASSED 
-2025-04-13 01:25:49 [main] INFO com.ui.tests.LoginTest Close the browser 
-2025-04-13 01:25:49 [main] INFO com.ui.pages.HomePage Closing the browser 
-2025-04-13 01:25:49 [main] INFO com.ui.listeners.TestListener Test Suite is Completed 
+2025-04-13 16:26:24 [main] INFO com.ui.listeners.TestListener Test Suite is Started 
+2025-04-13 16:26:25 [main] INFO com.ui.tests.LoginTest Load the Homepage of the website 
+2025-04-13 16:26:25 [main] INFO com.ui.pages.HomePage Launching the browser for CHROME 
+2025-04-13 16:26:26 [main] INFO com.ui.pages.HomePage Visiting the website http://www.automationpractice.pl/index.php 
+2025-04-13 16:26:27 [main] INFO com.ui.listeners.TestListener loginCSVTest 
+2025-04-13 16:26:27 [main] INFO com.ui.listeners.TestListener Verify if valid user is able to login into application with csv 
+2025-04-13 16:26:27 [main] INFO com.ui.listeners.TestListener [smokeTesting, e2e] 
+2025-04-13 16:26:27 [main] INFO com.ui.pages.HomePage Trying to perform the click to go to the Login page 
+2025-04-13 16:26:27 [main] INFO com.ui.pages.HomePage Finding element with locator By.xpath: //a[contains(text(), 'Sign in')] 
+2025-04-13 16:26:27 [main] INFO com.ui.pages.HomePage Element is found and now performing the click 
+2025-04-13 16:26:27 [main] INFO com.ui.pages.LoginPage Finding element with locator By.id: email 
+2025-04-13 16:26:27 [main] INFO com.ui.pages.LoginPage Element found and now enter the text linda.may@yopmail.com 
+2025-04-13 16:26:28 [main] INFO com.ui.pages.LoginPage Finding element with locator By.id: passwd 
+2025-04-13 16:26:28 [main] INFO com.ui.pages.LoginPage Element found and now enter the text Password1 
+2025-04-13 16:26:28 [main] INFO com.ui.pages.LoginPage Finding element with locator By.id: SubmitLogin 
+2025-04-13 16:26:28 [main] INFO com.ui.pages.LoginPage Element is found and now performing the click 
+2025-04-13 16:26:28 [main] INFO com.ui.pages.MyAccountPage Finding element with locator By.xpath: //a[@title='View my customer account']/span 
+2025-04-13 16:26:28 [main] INFO com.ui.pages.MyAccountPage Element found and now return the visible text Linda May 
+2025-04-13 16:26:28 [main] INFO com.ui.listeners.TestListener loginCSVTest PASSED 
+2025-04-13 16:26:28 [main] INFO com.ui.tests.LoginTest Closing the browser 
+2025-04-13 16:26:28 [main] INFO com.ui.pages.HomePage Closing the browser 
+2025-04-13 16:26:28 [main] INFO com.ui.tests.LoginTest Load the Homepage of the website 
+2025-04-13 16:26:28 [main] INFO com.ui.pages.HomePage Launching the browser for CHROME 
+2025-04-13 16:26:29 [main] INFO com.ui.pages.HomePage Visiting the website http://www.automationpractice.pl/index.php 
+2025-04-13 16:26:30 [main] INFO com.ui.listeners.TestListener loginCSVTest 
+2025-04-13 16:26:30 [main] INFO com.ui.listeners.TestListener Verify if valid user is able to login into application with csv 
+2025-04-13 16:26:30 [main] INFO com.ui.listeners.TestListener [smokeTesting, e2e] 
+2025-04-13 16:26:30 [main] INFO com.ui.pages.HomePage Trying to perform the click to go to the Login page 
+2025-04-13 16:26:30 [main] INFO com.ui.pages.HomePage Finding element with locator By.xpath: //a[contains(text(), 'Sign in')] 
+2025-04-13 16:26:31 [main] INFO com.ui.pages.HomePage Element is found and now performing the click 
+2025-04-13 16:26:31 [main] INFO com.ui.pages.LoginPage Finding element with locator By.id: email 
+2025-04-13 16:26:31 [main] INFO com.ui.pages.LoginPage Element found and now enter the text linda.bay@yopmail.com 
+2025-04-13 16:26:31 [main] INFO com.ui.pages.LoginPage Finding element with locator By.id: passwd 
+2025-04-13 16:26:31 [main] INFO com.ui.pages.LoginPage Element found and now enter the text Password1 
+2025-04-13 16:26:31 [main] INFO com.ui.pages.LoginPage Finding element with locator By.id: SubmitLogin 
+2025-04-13 16:26:31 [main] INFO com.ui.pages.LoginPage Element is found and now performing the click 
+2025-04-13 16:26:31 [main] INFO com.ui.pages.MyAccountPage Finding element with locator By.xpath: //a[@title='View my customer account']/span 
+2025-04-13 16:26:31 [main] INFO com.ui.listeners.TestListener loginCSVTest FAILED 
+2025-04-13 16:26:31 [main] INFO com.ui.listeners.TestListener no such element: Unable to locate element: {"method":"xpath","selector":"//a[@title='View my customer account']/span"}
+  (Session info: chrome=135.0.7049.85)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.26.0', revision: '8ccf0219d7'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.2.1', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d33340e62c914b1dcd627f4870bdc06f, findElement {value=//a[@title='View my customer account']/span, using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.85, chrome: {chromedriverVersion: 135.0.7049.84 (6c019e560019..., userDataDir: /var/folders/61/3s3lckjj189...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63329}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:63329/devtoo..., se:cdpVersion: 135.0.7049.85, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d33340e62c914b1dcd627f4870bdc06f 
+2025-04-13 16:26:31 [main] INFO com.ui.listeners.TestListener Capturing Screenshot for the Failed Test 
+2025-04-13 16:26:31 [main] INFO com.ui.listeners.TestListener Attaching Failed Test to the html file 
+2025-04-13 16:26:31 [main] INFO com.ui.tests.LoginTest Closing the browser 
+2025-04-13 16:26:31 [main] INFO com.ui.pages.HomePage Closing the browser 
+2025-04-13 16:26:31 [main] INFO com.ui.tests.LoginTest Load the Homepage of the website 
+2025-04-13 16:26:31 [main] INFO com.ui.pages.HomePage Launching the browser for CHROME 
+2025-04-13 16:26:32 [main] INFO com.ui.pages.HomePage Visiting the website http://www.automationpractice.pl/index.php 
+2025-04-13 16:26:34 [main] INFO com.ui.listeners.TestListener loginExcelTest 
+2025-04-13 16:26:34 [main] INFO com.ui.listeners.TestListener Verify if valid user is able to login into application with xlsx 
+2025-04-13 16:26:34 [main] INFO com.ui.listeners.TestListener [smokeTesting, e2e] 
+2025-04-13 16:26:34 [main] INFO com.ui.pages.HomePage Trying to perform the click to go to the Login page 
+2025-04-13 16:26:34 [main] INFO com.ui.pages.HomePage Finding element with locator By.xpath: //a[contains(text(), 'Sign in')] 
+2025-04-13 16:26:34 [main] INFO com.ui.pages.HomePage Element is found and now performing the click 
+2025-04-13 16:26:34 [main] INFO com.ui.pages.LoginPage Finding element with locator By.id: email 
+2025-04-13 16:26:34 [main] INFO com.ui.pages.LoginPage Element found and now enter the text linda.may@yopmail.com 
+2025-04-13 16:26:34 [main] INFO com.ui.pages.LoginPage Finding element with locator By.id: passwd 
+2025-04-13 16:26:34 [main] INFO com.ui.pages.LoginPage Element found and now enter the text Password1 
+2025-04-13 16:26:34 [main] INFO com.ui.pages.LoginPage Finding element with locator By.id: SubmitLogin 
+2025-04-13 16:26:34 [main] INFO com.ui.pages.LoginPage Element is found and now performing the click 
+2025-04-13 16:26:34 [main] INFO com.ui.pages.MyAccountPage Finding element with locator By.xpath: //a[@title='View my customer account']/span 
+2025-04-13 16:26:34 [main] INFO com.ui.listeners.TestListener loginExcelTest SKIPPED 
+2025-04-13 16:26:34 [main] INFO com.ui.tests.LoginTest Closing the browser 
+2025-04-13 16:26:34 [main] INFO com.ui.pages.HomePage Closing the browser 
+2025-04-13 16:26:34 [main] INFO com.ui.tests.LoginTest Load the Homepage of the website 
+2025-04-13 16:26:34 [main] INFO com.ui.pages.HomePage Launching the browser for CHROME 
+2025-04-13 16:26:35 [main] INFO com.ui.pages.HomePage Visiting the website http://www.automationpractice.pl/index.php 
+2025-04-13 16:26:37 [main] INFO com.ui.listeners.TestListener loginExcelTest 
+2025-04-13 16:26:37 [main] INFO com.ui.listeners.TestListener Verify if valid user is able to login into application with xlsx 
+2025-04-13 16:26:37 [main] INFO com.ui.listeners.TestListener [smokeTesting, e2e] 
+2025-04-13 16:26:37 [main] INFO com.ui.pages.HomePage Trying to perform the click to go to the Login page 
+2025-04-13 16:26:37 [main] INFO com.ui.pages.HomePage Finding element with locator By.xpath: //a[contains(text(), 'Sign in')] 
+2025-04-13 16:26:37 [main] INFO com.ui.pages.HomePage Element is found and now performing the click 
+2025-04-13 16:26:37 [main] INFO com.ui.pages.LoginPage Finding element with locator By.id: email 
+2025-04-13 16:26:37 [main] INFO com.ui.pages.LoginPage Element found and now enter the text linda.may@yopmail.com 
+2025-04-13 16:26:37 [main] INFO com.ui.pages.LoginPage Finding element with locator By.id: passwd 
+2025-04-13 16:26:37 [main] INFO com.ui.pages.LoginPage Element found and now enter the text Password1 
+2025-04-13 16:26:37 [main] INFO com.ui.pages.LoginPage Finding element with locator By.id: SubmitLogin 
+2025-04-13 16:26:37 [main] INFO com.ui.pages.LoginPage Element is found and now performing the click 
+2025-04-13 16:26:37 [main] INFO com.ui.pages.MyAccountPage Finding element with locator By.xpath: //a[@title='View my customer account']/span 
+2025-04-13 16:26:37 [main] INFO com.ui.listeners.TestListener loginExcelTest SKIPPED 
+2025-04-13 16:26:37 [main] INFO com.ui.tests.LoginTest Closing the browser 
+2025-04-13 16:26:37 [main] INFO com.ui.pages.HomePage Closing the browser 
+2025-04-13 16:26:37 [main] INFO com.ui.tests.LoginTest Load the Homepage of the website 
+2025-04-13 16:26:37 [main] INFO com.ui.pages.HomePage Launching the browser for CHROME 
+2025-04-13 16:26:38 [main] INFO com.ui.pages.HomePage Visiting the website http://www.automationpractice.pl/index.php 
+2025-04-13 16:26:39 [main] INFO com.ui.listeners.TestListener loginExcelTest 
+2025-04-13 16:26:39 [main] INFO com.ui.listeners.TestListener Verify if valid user is able to login into application with xlsx 
+2025-04-13 16:26:39 [main] INFO com.ui.listeners.TestListener [smokeTesting, e2e] 
+2025-04-13 16:26:39 [main] INFO com.ui.pages.HomePage Trying to perform the click to go to the Login page 
+2025-04-13 16:26:39 [main] INFO com.ui.pages.HomePage Finding element with locator By.xpath: //a[contains(text(), 'Sign in')] 
+2025-04-13 16:26:40 [main] INFO com.ui.pages.HomePage Element is found and now performing the click 
+2025-04-13 16:26:40 [main] INFO com.ui.pages.LoginPage Finding element with locator By.id: email 
+2025-04-13 16:26:40 [main] INFO com.ui.pages.LoginPage Element found and now enter the text linda.may@yopmail.com 
+2025-04-13 16:26:40 [main] INFO com.ui.pages.LoginPage Finding element with locator By.id: passwd 
+2025-04-13 16:26:40 [main] INFO com.ui.pages.LoginPage Element found and now enter the text Password1 
+2025-04-13 16:26:40 [main] INFO com.ui.pages.LoginPage Finding element with locator By.id: SubmitLogin 
+2025-04-13 16:26:41 [main] INFO com.ui.pages.LoginPage Element is found and now performing the click 
+2025-04-13 16:26:41 [main] INFO com.ui.pages.MyAccountPage Finding element with locator By.xpath: //a[@title='View my customer account']/span 
+2025-04-13 16:26:41 [main] INFO com.ui.pages.MyAccountPage Element found and now return the visible text Linda May 
+2025-04-13 16:26:41 [main] INFO com.ui.listeners.TestListener loginExcelTest PASSED 
+2025-04-13 16:26:41 [main] INFO com.ui.tests.LoginTest Closing the browser 
+2025-04-13 16:26:41 [main] INFO com.ui.pages.HomePage Closing the browser 
+2025-04-13 16:26:41 [main] INFO com.ui.tests.LoginTest Load the Homepage of the website 
+2025-04-13 16:26:41 [main] INFO com.ui.pages.HomePage Launching the browser for CHROME 
+2025-04-13 16:26:41 [main] INFO com.ui.pages.HomePage Visiting the website http://www.automationpractice.pl/index.php 
+2025-04-13 16:26:42 [main] INFO com.ui.listeners.TestListener loginTest 
+2025-04-13 16:26:42 [main] INFO com.ui.listeners.TestListener Verify if valid user is able to login into application with json 
+2025-04-13 16:26:42 [main] INFO com.ui.listeners.TestListener [smokeTesting, e2e] 
+2025-04-13 16:26:42 [main] INFO com.ui.pages.HomePage Trying to perform the click to go to the Login page 
+2025-04-13 16:26:42 [main] INFO com.ui.pages.HomePage Finding element with locator By.xpath: //a[contains(text(), 'Sign in')] 
+2025-04-13 16:26:44 [main] INFO com.ui.pages.HomePage Element is found and now performing the click 
+2025-04-13 16:26:44 [main] INFO com.ui.pages.LoginPage Finding element with locator By.id: email 
+2025-04-13 16:26:44 [main] INFO com.ui.pages.LoginPage Element found and now enter the text linda.may@yopmail.com 
+2025-04-13 16:26:44 [main] INFO com.ui.pages.LoginPage Finding element with locator By.id: passwd 
+2025-04-13 16:26:44 [main] INFO com.ui.pages.LoginPage Element found and now enter the text Password1 
+2025-04-13 16:26:44 [main] INFO com.ui.pages.LoginPage Finding element with locator By.id: SubmitLogin 
+2025-04-13 16:26:44 [main] INFO com.ui.pages.LoginPage Element is found and now performing the click 
+2025-04-13 16:26:44 [main] INFO com.ui.pages.MyAccountPage Finding element with locator By.xpath: //a[@title='View my customer account']/span 
+2025-04-13 16:26:44 [main] INFO com.ui.pages.MyAccountPage Element found and now return the visible text Linda May 
+2025-04-13 16:26:44 [main] INFO com.ui.listeners.TestListener loginTest PASSED 
+2025-04-13 16:26:44 [main] INFO com.ui.tests.LoginTest Closing the browser 
+2025-04-13 16:26:44 [main] INFO com.ui.pages.HomePage Closing the browser 
+2025-04-13 16:26:44 [main] INFO com.ui.tests.LoginTest Load the Homepage of the website 
+2025-04-13 16:26:44 [main] INFO com.ui.pages.HomePage Launching the browser for CHROME 
+2025-04-13 16:26:45 [main] INFO com.ui.pages.HomePage Visiting the website http://www.automationpractice.pl/index.php 
+2025-04-13 16:26:46 [main] INFO com.ui.listeners.TestListener loginTest 
+2025-04-13 16:26:46 [main] INFO com.ui.listeners.TestListener Verify if valid user is able to login into application with json 
+2025-04-13 16:26:46 [main] INFO com.ui.listeners.TestListener [smokeTesting, e2e] 
+2025-04-13 16:26:46 [main] INFO com.ui.pages.HomePage Trying to perform the click to go to the Login page 
+2025-04-13 16:26:46 [main] INFO com.ui.pages.HomePage Finding element with locator By.xpath: //a[contains(text(), 'Sign in')] 
+2025-04-13 16:26:47 [main] INFO com.ui.pages.HomePage Element is found and now performing the click 
+2025-04-13 16:26:47 [main] INFO com.ui.pages.LoginPage Finding element with locator By.id: email 
+2025-04-13 16:26:47 [main] INFO com.ui.pages.LoginPage Element found and now enter the text linda.may@yopmail.com 
+2025-04-13 16:26:47 [main] INFO com.ui.pages.LoginPage Finding element with locator By.id: passwd 
+2025-04-13 16:26:47 [main] INFO com.ui.pages.LoginPage Element found and now enter the text Password222 
+2025-04-13 16:26:47 [main] INFO com.ui.pages.LoginPage Finding element with locator By.id: SubmitLogin 
+2025-04-13 16:26:47 [main] INFO com.ui.pages.LoginPage Element is found and now performing the click 
+2025-04-13 16:26:47 [main] INFO com.ui.pages.MyAccountPage Finding element with locator By.xpath: //a[@title='View my customer account']/span 
+2025-04-13 16:26:47 [main] INFO com.ui.listeners.TestListener loginTest FAILED 
+2025-04-13 16:26:47 [main] INFO com.ui.listeners.TestListener no such element: Unable to locate element: {"method":"xpath","selector":"//a[@title='View my customer account']/span"}
+  (Session info: chrome=135.0.7049.85)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.26.0', revision: '8ccf0219d7'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.2.1', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [471ef2d7cbaf50ee553348553f767b2e, findElement {value=//a[@title='View my customer account']/span, using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.85, chrome: {chromedriverVersion: 135.0.7049.84 (6c019e560019..., userDataDir: /var/folders/61/3s3lckjj189...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63460}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:63460/devtoo..., se:cdpVersion: 135.0.7049.85, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 471ef2d7cbaf50ee553348553f767b2e 
+2025-04-13 16:26:47 [main] INFO com.ui.listeners.TestListener Capturing Screenshot for the Failed Test 
+2025-04-13 16:26:47 [main] INFO com.ui.listeners.TestListener Attaching Failed Test to the html file 
+2025-04-13 16:26:47 [main] INFO com.ui.tests.LoginTest Closing the browser 
+2025-04-13 16:26:47 [main] INFO com.ui.pages.HomePage Closing the browser 
+2025-04-13 16:26:47 [main] INFO com.ui.listeners.TestListener Test Suite is Completed 
